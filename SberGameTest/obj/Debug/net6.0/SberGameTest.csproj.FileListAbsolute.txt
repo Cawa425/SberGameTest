@@ -1,0 +1,15 @@
+D:\Rider Projects\SberGameTest\SberGameTest\bin\Debug\net6.0\SberGameTest.exe
+D:\Rider Projects\SberGameTest\SberGameTest\bin\Debug\net6.0\SberGameTest.deps.json
+D:\Rider Projects\SberGameTest\SberGameTest\bin\Debug\net6.0\SberGameTest.runtimeconfig.json
+D:\Rider Projects\SberGameTest\SberGameTest\bin\Debug\net6.0\SberGameTest.dll
+D:\Rider Projects\SberGameTest\SberGameTest\bin\Debug\net6.0\SberGameTest.pdb
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.csproj.AssemblyReference.cache
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.AssemblyInfoInputs.cache
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.AssemblyInfo.cs
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.csproj.CoreCompileInputs.cache
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.dll
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\refint\SberGameTest.dll
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.pdb
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\SberGameTest.genruntimeconfig.cache
+D:\Rider Projects\SberGameTest\SberGameTest\obj\Debug\net6.0\ref\SberGameTest.dll
