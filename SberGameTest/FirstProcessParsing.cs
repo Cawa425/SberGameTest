@@ -8,7 +8,7 @@ public static class FirstProcessParsing
         Directory.GetParent(Environment.CurrentDirectory)?.Parent?.Parent?.FullName;
 
     private static readonly string ProcessedFilePath = DirectoryPath + @"\ProcessedFile.txt";
-    private static readonly string WordsFilePath = DirectoryPath + @"\russian2.txt";
+    private static readonly string WordsFilePath = DirectoryPath + @"\russian.txt";
 
     public static List<string> Select5LengthWordsFromFile()
     {

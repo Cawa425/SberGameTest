@@ -42,7 +42,7 @@ internal static class Program
             foreach (var str in samePlacesCharsIdsInput)
             {
                 var s = str.Split(' ');
-                dict.Add(char.Parse(s[0]), int.Parse(s[1]));
+                dict.Add(inputWord[int.Parse(s[0])-1], int.Parse(s[1]));
             }
 
             remainedWords = from word in words.AsParallel()
